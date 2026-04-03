@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**MirandeCheubou/MirandeCheubou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Salut, moi c’est Mirande
 
 🚀 Étudiante en BTS SIO  
@@ -38,8 +34,8 @@ J’aime comprendre la logique des applications et créer des interfaces simples
 ## 📂 Mes projets
 
 - 🏛️ Blog archéologie (authentification + gestion utilisateurs)  
-- 🌏 Site découverte de Tokyo  
-- 🌏 Portfolio
+- 🌏 Site découverte de Tokyo
+- 🌏 Portfolio 
 - 📊 Application de gestion de dossiers (en cours)
 
 ---
@@ -60,20 +56,9 @@ J’aime comprendre la logique des applications et créer des interfaces simples
 
 ## 📫 Me contacter
 
-- ✉️ Email :mirandepascale04@gmail.com  
-- 💼 LinkedIn : https://www.linkedin.com/in/mirande-cheubou-1bb406363/  
+- ✉️ Email : mirandepascale04@gmail.com  
+- 💼 LinkedIn : https://www.linkedin.com/in/mirande-cheubou-1bb406363/ 
 
 ---
 
 ⭐ Merci de visiter mon profil !
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
