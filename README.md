@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Mirande
+#  Salut, moi c’est Mirande
 
 🚀 Étudiante en BTS SIO  
 💻 Développeuse web en devenir  
@@ -6,14 +6,14 @@
 
 ---
 
-## 🌸 À propos de moi
+##  À propos de moi
 
 Passionnée par le développement web, je construis des projets concrets en **front-end et back-end**.  
 J’aime comprendre la logique des applications et créer des interfaces simples et efficaces.
 
 ---
 
-## 🛠️ Tech & Outils
+##  Tech & Outils
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
@@ -23,7 +23,7 @@ J’aime comprendre la logique des applications et créer des interfaces simples
 
 ---
 
-## 📚 En apprentissage
+##  En apprentissage
 
 - API REST  
 - Architecture d’applications  
@@ -31,34 +31,26 @@ J’aime comprendre la logique des applications et créer des interfaces simples
 
 ---
 
-## 📂 Mes projets
+##  Mes projets
 
-- 🏛️ Blog archéologie (authentification + gestion utilisateurs)  
-- 🌏 Site découverte de Tokyo
-- 🌏 Portfolio 
-- 📊 Application de gestion de dossiers (en cours)
-
----
-
-## 📊 Mes stats GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight)
+- Blog archéologie (authentification + gestion utilisateurs)  
+-  Site découverte de Tokyo
+-  Portfolio 
+-  Application de gestion de dossiers (en cours)
 
 ---
 
-## 🎥 Un peu de code 👇
+##  Un peu de code 👇
 
 ![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - ✉️ Email : mirandepascale04@gmail.com  
 - 💼 LinkedIn : https://www.linkedin.com/in/mirande-cheubou-1bb406363/ 
 
 ---
 
-⭐ Merci de visiter mon profil !
+ Merci de visiter mon profil !
